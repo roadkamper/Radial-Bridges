@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="110" fill="#101923"/>
+<g transform="translate(256 256)" fill="none"><circle r="181" stroke="#344b5a" stroke-width="5"/><circle r="111" stroke="#344b5a" stroke-width="5"/>
+<path d="M111 0H181 M96 55L157 90 M55 96L90 157 M0 111V181 M-55 96L-90 157 M-96 55L-157 90 M-111 0H-181 M-96-55L-157-90 M-55-96L-90-157 M0-111V-181 M55-96L90-157 M96-55L157-90" stroke="#35dbb3" stroke-width="18" stroke-linecap="round"/><circle r="15" fill="#57aaf4"/></g>
+</svg>

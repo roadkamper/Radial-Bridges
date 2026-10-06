@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101923"/><stop offset="1" stop-color="#1e3441"/></linearGradient></defs>
+<rect width="1280" height="640" rx="24" fill="url(#bg)"/>
+<g transform="translate(1020 290)" fill="none"><circle r="170" stroke="#344b5a" stroke-width="3"/><circle r="110" stroke="#344b5a" stroke-width="3"/>
+<path d="M110 0H170 M95 55L147 85 M55 95L85 147 M0 110V170 M-55 95L-85 147 M-95 55L-147 85 M-110 0H-170 M-95-55L-147-85 M-55-95L-85-147 M0-110V-170 M55-95L85-147 M95-55L147-85" stroke="#35dbb3" stroke-width="12" stroke-linecap="round"/>
+<circle r="12" fill="#57aaf4"/></g>
+<rect x="70" y="84" width="310" height="42" rx="21" fill="#21443e"/>
+<text x="92" y="112" fill="#35dbb3" font-size="20" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2">LOCAL · OPEN SOURCE</text>
+<text x="70" y="250" fill="#e5edf5" font-size="88" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Radial Bridges</text>
+<text x="74" y="320" fill="#a9bdce" font-size="35" font-family="Segoe UI,Arial,sans-serif">Shorter spans. More control.</text>
+<text x="74" y="403" fill="#c8d8e4" font-size="24" font-family="Segoe UI,Arial,sans-serif">Connected Zigzag · Multiple heights · Fine tuning</text>
+<path d="M74 465H765" stroke="#344b5a" stroke-width="2"/>
+<text x="74" y="522" fill="#829aaf" font-size="21" font-family="Segoe UI,Arial,sans-serif">G-code preview &amp; post-processing for Bambu Studio</text>
+<text x="74" y="577" fill="#eab85f" font-size="17" font-family="Segoe UI,Arial,sans-serif">Experimental toolpaths — inspect before printing</text>
+</svg>

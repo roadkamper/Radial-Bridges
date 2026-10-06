@@ -1,0 +1,26 @@
+1 ICON "payload/app.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,8,0,0
+PRODUCTVERSION 1,8,0,0
+FILEOS 0x40004
+FILETYPE 0x1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "Oolie Industries"
+      VALUE "FileDescription", "Radial Bridges"
+      VALUE "FileVersion", "1.8.0"
+      VALUE "InternalName", "RadialBridges"
+      VALUE "OriginalFilename", "RadialBridges.exe"
+      VALUE "ProductName", "Radial Bridges"
+      VALUE "ProductVersion", "1.8.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END

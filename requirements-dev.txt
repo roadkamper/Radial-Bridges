@@ -1,0 +1,2 @@
+PySide6-Essentials==6.8.3
+ziglang==0.13.0

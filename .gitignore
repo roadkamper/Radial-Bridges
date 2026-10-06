@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pdb
+*.res
+payload/runtime/
+payload/RadialBridges.exe
+RadialBridges-Setup.exe
+vendor/
+build-deps/
+qt-test-deps/
+installer-base/
+dist/
+*.pfx
+*.p12
+*.key
+ui-*.png
+.venv/

@@ -1,0 +1,30 @@
+Python 3.12.10 (Windows embeddable x64)
+Copyright Python Software Foundation and contributors.
+License and notices: runtime/LICENSE.txt
+Original binary: https://www.python.org/ftp/python/3.12.10/python-3.12.10-embed-amd64.zip
+Source: https://www.python.org/ftp/python/3.12.10/Python-3.12.10.tar.xz
+
+PySide6 Essentials 6.8.3, Shiboken6 6.8.3, Qt 6.8.3
+Copyright The Qt Company Ltd. and contributors.
+The application uses QtCore, QtGui and QtWidgets through dynamically loaded
+libraries under the LGPL version 3 terms. Unused tools and Qt modules are
+included as supplied in the upstream Essentials wheel and retain their
+individual license terms. No bundled Qt library has been modified.
+LGPL-3.0 and GPL-3.0 texts: LICENSES/.
+Upstream license information: https://doc.qt.io/qtforpython-6/licenses.html
+Wheel distribution records: runtime/*dist-info/
+Exact corresponding source downloads:
+https://download.qt.io/official_releases/QtForPython/pyside6/PySide6-6.8.3-src/
+https://download.qt.io/archive/qt/6.8/6.8.3/single/
+You may replace or modify the bundled Qt/PySide/Shiboken shared libraries with
+compatible builds and run the supplied application source with them. There is
+no technical restriction on doing so. Reverse engineering for debugging such
+library modifications is permitted. Application source is supplied alongside
+the executable, and the launcher simply runs the supplied Python source.
+
+Microsoft runtime DLLs bundled with the official Python and PySide wheels
+retain their Microsoft distribution terms. They are used without modification.
+
+NSIS installer framework
+Copyright NSIS contributors. NSIS uses zlib/libpng and other permissive
+licenses; see https://nsis.sourceforge.io/License.
